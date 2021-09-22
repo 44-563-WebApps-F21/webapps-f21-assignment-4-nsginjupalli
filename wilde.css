@@ -103,4 +103,20 @@
 
 }
 
+.table{
+    border: 2px violet;
+    border: turquoise;
+    color: tomato;
+    text-align: left;
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.table th{
+    background-color: skyblue;
+}
+
 
