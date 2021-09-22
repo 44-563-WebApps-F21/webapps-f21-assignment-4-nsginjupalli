@@ -123,4 +123,28 @@ tr:nth-child(even){
     background-color: springgreen;
 }
 
+.LADYWINDMERE:hover{
+    text-shadow: 2px 3px 4px purple;
+    border-style: groove;
+    border: 1px solid;
+    background-color: slategrey;
+    box-shadow:4px 4px 4px gray;
+    filter:blur(1px);
+
+}
+
+.LORDDARLINGTON:hover{
+    text-shadow: 3px 4px 5px goldenrod;
+    border-style:double;
+    border: 1px solid;
+    background-color: darkcyan;
+    box-shadow:4px 4px 4px gray;
+    filter: blur(1px);
+
+}
+
+
+
+
+
 
